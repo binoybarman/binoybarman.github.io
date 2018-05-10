@@ -1,0 +1,27 @@
+body {
+	margin:0;
+	padding:0;
+	background-color:#cbc3a5;
+	color:#333;
+	font-family: Helvetica, Arial, Sans-Serif;
+
+}
+.middle-box{
+	
+}
+
+#top-center{
+	border:solid 1px #A8A8A8;
+}
+#sidebar{
+	
+
+}
+
+.home-middle{
+	border-left:1px #A8A8A8;
+}
+
+.home-paragraph{
+	text-align:justify;
+}
